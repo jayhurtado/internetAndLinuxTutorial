@@ -1,8 +1,0 @@
-How the internet works:
-
-When you are trying to pull up a website, the browser sends a GET request to the DNS server first.
-
-DNS - Domain Name Server. This converts a domain name into an IP address or vice versa.
-
-
-
