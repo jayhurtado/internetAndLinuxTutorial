@@ -25,12 +25,19 @@
 
 *SSL** - Secure Socket Layer is a secure protocol developed for sending information securely over the internet. It encrypts the data being transmitted so that a third party cannot eavesdrop.
 
-3. There are 4 main HTTP Requests(GET, POST, PUT, and DELETE).
+3. There are 4 main HTTP Requests that the client makes to the web server(GET, POST, PUT, and DELETE).
 * **GET** - It is used to request data from a specified source. Name-value pairs are shown in the URL.
 * **POST** - Used to send data to a server to create/update a resource. It is not shown in the URL.
 * **PUT** - The put method gets updates.
 * **DELETE** - Deletes the specified resource.
 
-4. The internet is essentially a giant database. More of a collection of databases instead of a collection of webpages.
+4. The Web server can respond to the client two ways: 
+    * **Statically** which is by essentially going into the computer and grabbing a file.
+    * **Dynamically** generating a page  through a server-side language such as PHP or python.
+
+
+5. The internet is essentially a giant database. More of a collection of databases instead of a collection of webpages.
 
 ![internet database](images/internetdatabase.gif)
+
+**REST** - Representational State Transfer. RESTful systems are stateless and they keep the client and server seperate. If you change the code on the client side, it won;t affect the server and vice versa.

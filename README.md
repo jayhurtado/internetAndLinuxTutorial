@@ -1,5 +1,3 @@
 # internetAndLinuxTutorial
 
-##How the internet works
-
-**DNS** - 
+[link to internet tutorial](internet.md)
