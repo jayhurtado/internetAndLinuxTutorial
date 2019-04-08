@@ -1,2 +1,2 @@
 # Linux Tutorial
-[link to Linux tutorial](linuxTutorial.md)
+Mohamed Shabarek - [Linux tutorial](linuxTutorial.md)
