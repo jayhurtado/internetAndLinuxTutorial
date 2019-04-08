@@ -41,3 +41,8 @@
 ![internet database](images/internetdatabase.gif)
 
 **REST** - Representational State Transfer. RESTful systems are stateless and they keep the client and server seperate. If you change the code on the client side, it won;t affect the server and vice versa.
+* REST uses the GET, POST, PUT, and DELETE request methods. REST requires that a client make a request to the web server.
+
+6. The way that data is forwarded through different networks is through a router.
+
+**Router** - Connects devices within a network by forwarding data packets between them. The router also assigns a local IP address to each of the devices in the network. It examines the destination address of each packet and determines where to send it. A lot of the times it is sending information to another router.
